@@ -1,0 +1,10 @@
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.AssemblyReference.cache
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\46730\Desktop\lab2\MsTest\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PrimeService.Tests
+build_property.ProjectDir = C:\Users\46730\Desktop\lab2\NUnit\unit-testing-using-nunit\PrimeService.Tests\

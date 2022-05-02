@@ -1,0 +1,15 @@
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.csproj.AssemblyReference.cache
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.AssemblyInfoInputs.cache
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.AssemblyInfo.cs
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.csproj.CoreCompileInputs.cache
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\bin\Debug\net6.0\RomanNumeral.exe
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\bin\Debug\net6.0\RomanNumeral.deps.json
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\bin\Debug\net6.0\RomanNumeral.runtimeconfig.json
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\bin\Debug\net6.0\RomanNumeral.dll
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\bin\Debug\net6.0\RomanNumeral.pdb
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.dll
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\refint\RomanNumeral.dll
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.pdb
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\RomanNumeral.genruntimeconfig.cache
+C:\Users\46730\Desktop\lab2\RomanNumeralsTest\RomanNumeral\RomanNumeral\obj\Debug\net6.0\ref\RomanNumeral.dll
